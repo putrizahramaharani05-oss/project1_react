@@ -1,5 +1,6 @@
 import './App.css';
 import Labelnama from './components/labelnama';
+import Labelalamat from './components/labelalamat';
 
 function App() {
   return (
@@ -7,9 +8,7 @@ function App() {
 
 
      <h1>Profile</h1>
-     <Labelnama nama="rijal"/>
-     <Labelnama nama="ayah rijal"/>
-     <Labelnama nama="jai"/>
+     <Labelnama nama="princesss"/>
 
      <p>Alamat : jalan pongka</p>
 
